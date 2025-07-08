@@ -6,7 +6,7 @@ Welcome to a journey that reveals the **hidden vulnerability** of modern AI and 
 
 Have you ever wondered if neural networks can be fooled with just a tiny tweak in their input?
 
-🤔 *What if changing a single pixel could trick an AI into seeing a 3 as an 8?*
+🤔 *What if changing a single-step perturbation could trick an AI into seeing a 3 as an 8?*
 
 This notebook isn't just a demo it's an **interactive story** of breaking and defending a deep learning model. Built entirely in **PyTorch** and powered by **IBM Adversarial Robustness Toolbox (ART)**, this project is a hands-on crash course on adversarial machine learning.
 
