@@ -1,4 +1,4 @@
-# 🧠 Fooling AI, Then Defending It — A Hands-on Adversarial Robustness Demo
+# 🧠 Fooling AI, Then Defending It - A Hands-on Adversarial Robustness Demo
 
 ![Cover Image](./IBM-Adversarial-Attacks/Cover-Image/human_vs_adversarial_image7.jpg)
 
