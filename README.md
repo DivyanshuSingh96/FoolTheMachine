@@ -42,6 +42,7 @@ But when we apply FGSM:
 | -------------- | ----------------- | ---------------- |
 | ![Original Image](./IBM-Adversarial-Attacks/saved_images/original/original_0_pred_7.png)              | ![Adversarial Image](./IBM-Adversarial-Attacks/saved_images/adversarial/adversarial_0_pred_3.png) | 3                |
 
+When ε was small (e.g., 0.05), the model stood strong. But crank it up to ε = 0.8, and we saw accuracy plummet from 98.9% to 27%. The illusion was broken and the machine was truly fooled.
 
 ### Visualization
 
