@@ -38,6 +38,11 @@ But when we apply FGSM:
 
 ![Adversarial Image](./IBM-Adversarial-Attacks/saved_images/adversarial/adversarial_0_pred_3.png) - Predicted "3"
 
+| Original Image | Adversarial Image | Model Prediction |
+| -------------- | ----------------- | ---------------- |
+| ![Original Image](./IBM-Adversarial-Attacks/saved_images/original/original_0_pred_7.png)              | ![Adversarial Image](./IBM-Adversarial-Attacks/saved_images/adversarial/adversarial_0_pred_3.png) | 3                |
+
+
 ### Visualization
 
 ![Graph](./IBM-Adversarial-Attacks/Graphs/adversarial_graph_img1.png)
