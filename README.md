@@ -1,6 +1,6 @@
 # 🧠 Fooling AI, Then Defending It — A Hands-on Adversarial Robustness Demo
 
-![Cover Image](./Cover-Image/human_vs_adversarial_image7.jpg)
+![Cover Image](./IBM-Adversarial-Attacks/Cover-Image/human_vs_adversarial_image7.jpg)
 
 Welcome to a journey that reveals the **hidden vulnerability** of modern AI and shows how we can fight back.
 
@@ -32,15 +32,15 @@ We retrain the model with **adversarial training** using ART, making it more rob
 
 A well-trained model sees an image like this:
 
-![Original Image](./saved_images/original/original_0_pred_7.png) - Predicted "7"
+![Original Image](./IBM-Adversarial-Attacks/saved_images/original/original_0_pred_7.png) - Predicted "7"
 
 But when we apply FGSM:
 
-![Adversarial Image](./saved_images/adversarial/adversarial_0_pred_3.png) - Predicted "3"
+![Adversarial Image](./IBM-Adversarial-Attacks/saved_images/adversarial/adversarial_0_pred_3.png) - Predicted "3"
 
 ### Visualization
 
-![Graph](Graphs/adversarial_graph_img1.png)
+![Graph](./IBM-Adversarial-Attacks/Graphs/adversarial_graph_img1.png)
 
 It gets completely fooled. The prediction changes. Confidence flips. The model breaks.
 
